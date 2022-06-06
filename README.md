@@ -6,3 +6,4 @@ FILES:
 autoMessages:
     helps to generate and send scheduled messages
 
+# assistant
